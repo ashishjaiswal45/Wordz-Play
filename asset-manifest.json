@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Wordz-Play/static/css/main.abd64e84.css",
+    "main.js": "/Wordz-Play/static/js/main.9c68d7e4.js",
+    "static/js/787.719ec76d.chunk.js": "/Wordz-Play/static/js/787.719ec76d.chunk.js",
+    "index.html": "/Wordz-Play/index.html",
+    "main.abd64e84.css.map": "/Wordz-Play/static/css/main.abd64e84.css.map",
+    "main.9c68d7e4.js.map": "/Wordz-Play/static/js/main.9c68d7e4.js.map",
+    "787.719ec76d.chunk.js.map": "/Wordz-Play/static/js/787.719ec76d.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.abd64e84.css",
+    "static/js/main.9c68d7e4.js"
+  ]
+}
